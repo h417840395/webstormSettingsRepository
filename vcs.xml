@@ -82,6 +82,10 @@
           <option name="url" value="https://gitee.com/h417840395/base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ElementUI/element-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\41784\WebstormProjects" />
