@@ -166,6 +166,14 @@
           <option name="url" value="http://49.234.214.200:13031" />
           <option name="userName" value="h417840395" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://119.186.131.218:11100/project-daqing/dq1c/dcoit-nygk-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://119.186.131.218:11100" />
+          <option name="userName" value="huo_xiao_jie" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\hxj\WebstormProjects" />
