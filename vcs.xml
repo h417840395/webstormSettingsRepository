@@ -178,6 +178,10 @@
           <option name="url" value="http://huoxiaojie@10.68.202.198:12301/r/realZsk-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/qusnshao/zsk-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\hxj\WebstormProjects" />
