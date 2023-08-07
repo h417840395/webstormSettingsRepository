@@ -182,6 +182,10 @@
           <option name="url" value="https://gitee.com/qusnshao/zsk-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/qusnshao/yujing-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\hxj\WebstormProjects" />
